@@ -1,5 +1,7 @@
 # C++ 那些事
 
+[English version is here](./README_EN.md)
+
 
 感谢各位对《C++ 那些事》的支持，现将内容也同步至网站，可以打开网站直接阅读~欢迎大家 star、转发、PR。
 
@@ -347,24 +349,15 @@ map<int, int> mp{
 
 ### 11.贡献者
 
-<table>
-  <tbody>
-    <tr>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/Light-City">
-          <img src="https://avatars2.githubusercontent.com/u/25699850?s=50&v=4" style="width: 50px;"><br>
-          <sub>Francis</sub>
-        </a><br>
-      </th>
-      <th align="center" style="width: 80px;">
-        <a href="https://github.com/ChungZH">
-          <img src="https://avatars1.githubusercontent.com/u/42088872?s=50&v=4" style="width: 50px;"><br>
-          <sub>ChungZH</sub>
-        </a><br>
-      </th>
-    </tr>
-  </tbody>
-</table>
+
+
+| 贡献人  | 地址                          |
+| ------- | ----------------------------- |
+| 光城    | https://github.com/Light-City |
+| ChungZH | https://github.com/ChungZH    |
+| xliu79  | https://github.com/xliu79     |
+
+
 
 ### 12.赞助我
 
